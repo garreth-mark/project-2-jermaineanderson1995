@@ -7,7 +7,7 @@ import org.junit.Test;
 import com.revature.service.ReimbursementService;
 
 
-/**
+/*
 
 public class ReimbursementServiceTest {
 
@@ -41,3 +41,4 @@ public class ReimbursementServiceTest {
     	assertTrue(ReimbursementService.getReimbursementService().getAllResolvedRequests().size() > 0);
     }
 }
+*/
